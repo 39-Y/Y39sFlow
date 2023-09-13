@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ffa00f1b0a255fc3","type":"file","file":"JPA/JPA.md","x":-191,"y":145,"width":400,"height":400},
+		{"id":"0a08265083ad795d","type":"file","file":"JPA/JPA 위치 데이터.md","x":360,"y":145,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"626d9c992bddea08","fromNode":"ffa00f1b0a255fc3","fromSide":"right","toNode":"0a08265083ad795d","toSide":"left"}
+	]
+}

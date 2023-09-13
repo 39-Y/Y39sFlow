@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "465111ef22b2ee62",
+    "type": "split",
+    "children": [
+      {
+        "id": "053f53d3989e334e",
+        "type": "tabs",
+        "dimension": 49.906191369606,
+        "children": [
+          {
+            "id": "ebfccd028859ccdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f317951b0dd7bac1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Error/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d3e0a875733c8ec",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-13 18.05.51.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4943d7ec619f4f3a",
+        "type": "tabs",
+        "dimension": 50.093808630394,
+        "children": [
+          {
+            "id": "7fb28e691bbfa556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SpringBoot/SpringBoot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6b5b78c2d89ec9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1668606ac5c5a679",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4684db337afb2e50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8489fe11991b2c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Spring",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba61c2bb79f386d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "0afbee2aa047761e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9095afb65055cda4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a6332cdc6534cce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-13 18.05.51.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fe411d92adaf152",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-13 18.05.51.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97cd62203aab317b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "10e1817770aa0ccb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-13 18.05.51.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "0a1d598ec42e4de7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1d3e0a875733c8ec",
+  "lastOpenFiles": [
+    "Error/Untitled.md",
+    "Excalidraw/Drawing 2023-09-13 18.05.51.excalidraw.md",
+    "Excalidraw",
+    "2023-09-13.md",
+    "Untitled.md",
+    "SpringBoot/SpringBoot.md",
+    "SpringBoot/Spring Batch.md",
+    "Error",
+    "SpringBoot/AOP.md",
+    "JPA/JPA 위치 데이터.md",
+    "desktop.ini",
+    "Java/OOP.md",
+    "Alarms/_Up_Married_Life.mp3",
+    "Alarms/Astronuts (아스트로너츠)-05-천문학개론-pale blue dot-192.mp3",
+    "Android/media/com.dho.mobilefax/FAX_OLD/Ad/80/images/main.jpg",
+    "Alarms/Sam Sparro(샘 스패로)_Black & Gold_320.mp3",
+    "Android/media/com.dho.mobilefax/FAX_OLD/Ad/80/icon_on.png",
+    "Android/media/com.dho.mobilefax/FAX_OLD/Ad/80/images/popup.jpg",
+    "Android/media/com.dho.mobilefax/FAX_OLD/Ad/80/icon.png",
+    "Android/media/com.dho.mobilefax/FAX_OLD/Ad/80/images",
+    "Android/media/com.dho.mobilefax/FAX_OLD/Ad/80",
+    "Android/media/com.dho.mobilefax/FAX_OLD/Ad",
+    "Android/media/com.dho.mobilefax/FAX_OLD",
+    "Untitled.canvas",
+    "Java/Java.md",
+    "JPA/JPA.md",
+    "Untitled 1.canvas"
+  ]
+}
