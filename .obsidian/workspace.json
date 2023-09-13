@@ -6,54 +6,10 @@
       {
         "id": "053f53d3989e334e",
         "type": "tabs",
-        "dimension": 49.906191369606,
+        "dimension": 50,
         "children": [
-          {
-            "id": "ebfccd028859ccdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "f317951b0dd7bac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Error/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d3e0a875733c8ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Error/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "4943d7ec619f4f3a",
-        "type": "tabs",
-        "dimension": 50.093808630394,
-        "children": [
-          {
-            "id": "7fb28e691bbfa556",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,6 +18,21 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4fc990964fe2ad2b",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "ebfccd028859ccdb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -130,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Error/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Error/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Error/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,7 +151,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,15 +170,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d3e0a875733c8ec",
+  "active": "ebfccd028859ccdb",
   "lastOpenFiles": [
-    "README.md",
-    "Excalidraw/test.excalidraw.md",
+    "SpringBoot/SpringBoot.md",
+    "Java/Java.md",
     "Error/Untitled.md",
+    "JPA/JPA.md",
+    "Excalidraw/test.excalidraw.md",
+    "README.md",
     "Excalidraw",
     "2023-09-13.md",
     "Untitled.md",
-    "SpringBoot/SpringBoot.md",
     "SpringBoot/Spring Batch.md",
     "Error",
     "SpringBoot/AOP.md",
@@ -229,8 +199,6 @@
     "Android/media/com.dho.mobilefax/FAX_OLD/Ad",
     "Android/media/com.dho.mobilefax/FAX_OLD",
     "Untitled.canvas",
-    "Java/Java.md",
-    "JPA/JPA.md",
     "Untitled 1.canvas"
   ]
 }
