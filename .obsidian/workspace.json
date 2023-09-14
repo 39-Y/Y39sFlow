@@ -6,33 +6,72 @@
       {
         "id": "053f53d3989e334e",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "f317951b0dd7bac1",
+            "id": "ad9733ffeed3e178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot/SpringBoot.md",
+                "file": "💻Web Programming/☕Java/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fa3109d83698e32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compiled language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bd2f6985ee0ef27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💻Web Programming/☕Java/OOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa1cc1453590a18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💻Web Programming/☕Java/Object.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "4fc990964fe2ad2b",
+        "id": "75f6c06fdb0fb61f",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "ebfccd028859ccdb",
+            "id": "59451c438499d9eb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "📡Computer Science/🏗Design & Architecture/Rest API.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "💻Web Programming/☕Java/OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "💻Web Programming/☕Java/OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "💻Web Programming/☕Java/OOP.md"
+              }
             }
           },
           {
@@ -167,38 +210,53 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebfccd028859ccdb",
+  "active": "1bd2f6985ee0ef27",
   "lastOpenFiles": [
-    "SpringBoot/SpringBoot.md",
-    "Java/Java.md",
-    "Error/Untitled.md",
-    "JPA/JPA.md",
-    "Excalidraw/test.excalidraw.md",
-    "README.md",
-    "Excalidraw",
-    "2023-09-13.md",
-    "Untitled.md",
-    "SpringBoot/Spring Batch.md",
-    "Error",
-    "SpringBoot/AOP.md",
-    "JPA/JPA 위치 데이터.md",
+    "💻Web Programming/☕Java/Java.md",
+    "💻Web Programming/☕Java/OOP.md",
+    "Compiled language.md",
+    "💻Web Programming/🍃Spring/DI.md",
+    "💻Web Programming/☕Java/Object.md",
+    "💻Web Programming/☕Java/JVM.md",
+    "💻Web Programming/🍃Spring/Constructor Injection.md",
+    "📡Computer Science/🤖OS/Process.md",
+    "📡Computer Science/🏗Design & Architecture/Rest API.md",
+    "💻Web Programming/🗃JPA/N+1.md",
+    "📡Computer Science/🏗Design & Architecture/VO.md",
+    "📡Computer Science/🏗Design & Architecture/DTO.md",
+    "💻Web Programming/🍃Spring/SpringBoot.md",
+    "📡Computer Science/🏗Design & Architecture/MVC.md",
+    "📡Computer Science/🤖OS/Thread.md",
+    "🦄Game Programming",
+    "📡Computer Science",
+    "📡Computer Science/🤖OS",
+    "📡Computer Science/⚙Algorithm & Data Structure",
+    "📡Computer Science/🏗Design & Architecture",
+    "Untitled.canvas",
+    "Web Programming/JPA/Untitled.md",
+    "💻Web Programming/🍃Spring/Bean.md",
+    "💻Web Programming/🗃JPA/JPA.md",
+    "💻Web Programming",
+    "💻Web Programming/🗃JPA/Entity.md",
+    "💻Web Programming/🗃JPA/JPA 위치 데이터.md",
+    "💻Web Programming/🍃Spring/Spring filter.md",
+    "💻Web Programming/🍃Spring/AOP.md",
+    "💻Web Programming/🍃Spring/Intercepter.md",
+    "💻Web Programming/mindMap/test.excalidraw.md",
+    "SpringBoot/Untitled.md",
+    "💻Web Programming/🍃Spring/Spring Batch.md",
+    "💻Web Programming/mindMap",
+    "💻Web Programming/❗❗Error",
     "desktop.ini",
-    "Java/OOP.md",
     "Alarms/_Up_Married_Life.mp3",
-    "Alarms/Astronuts (아스트로너츠)-05-천문학개론-pale blue dot-192.mp3",
     "Android/media/com.dho.mobilefax/FAX_OLD/Ad/80/images/main.jpg",
-    "Alarms/Sam Sparro(샘 스패로)_Black & Gold_320.mp3",
     "Android/media/com.dho.mobilefax/FAX_OLD/Ad/80/icon_on.png",
     "Android/media/com.dho.mobilefax/FAX_OLD/Ad/80/images/popup.jpg",
     "Android/media/com.dho.mobilefax/FAX_OLD/Ad/80/icon.png",
-    "Android/media/com.dho.mobilefax/FAX_OLD/Ad/80/images",
-    "Android/media/com.dho.mobilefax/FAX_OLD/Ad/80",
-    "Android/media/com.dho.mobilefax/FAX_OLD/Ad",
-    "Android/media/com.dho.mobilefax/FAX_OLD",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

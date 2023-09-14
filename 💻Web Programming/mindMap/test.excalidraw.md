@@ -8,9 +8,7 @@ tags: [excalidraw]
 
 
 # Text Elements
-[[Untitled]] ^gSXkkkaN
-
-[[Java]] ^eGTN3rGr
+[[Process]] ^gSXkkkaN
 
 %%
 # Drawing
@@ -90,8 +88,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "rectangle",
-			"version": 942,
-			"versionNonce": 1609425314,
+			"version": 943,
+			"versionNonce": 537917216,
 			"isDeleted": false,
 			"id": "eGTN3rGr",
 			"fillStyle": "hachure",
@@ -122,8 +120,8 @@ tags: [excalidraw]
 					"type": "arrow"
 				}
 			],
-			"updated": 1694600520067,
-			"link": "[[Java]]",
+			"updated": 1694685083890,
+			"link": null,
 			"locked": false
 		},
 		{
@@ -180,8 +178,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "arrow",
-			"version": 765,
-			"versionNonce": 1505400830,
+			"version": 767,
+			"versionNonce": 1940585184,
 			"isDeleted": false,
 			"id": "sUEdsD9VpPiJYxk1nR8a-",
 			"fillStyle": "hachure",
@@ -203,7 +201,7 @@ tags: [excalidraw]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694600488170,
+			"updated": 1694685080825,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -229,6 +227,43 @@ tags: [excalidraw]
 					-103.85641964417187
 				]
 			]
+		},
+		{
+			"id": "Y9GJclzI",
+			"type": "text",
+			"x": 86.84085008049135,
+			"y": 1955.6470381167624,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#a5d8ff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 30,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 497930016,
+			"version": 2,
+			"versionNonce": 2118688480,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1694685080828,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 18,
+			"containerId": "sUEdsD9VpPiJYxk1nR8a-",
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -246,10 +281,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 196.633152173913,
-		"scrollY": -1702.0435111640732,
+		"scrollX": 191.99999999999997,
+		"scrollY": -1746.0635596671157,
 		"zoom": {
-			"value": 1.1500000000000001
+			"value": 1.35
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
