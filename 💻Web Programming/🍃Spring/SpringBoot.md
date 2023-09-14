@@ -1,6 +1,6 @@
 
 [[JPA]]
-[[Java]]
+[[▫Java]]
 [[AOP]]
 [[DI]]
 [[Bean]]
